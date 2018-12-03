@@ -6,7 +6,7 @@ public class MyTest
 
 		System.out.println("hello fsadf git sault");
 		System.out.println("hello fsadf git sault");
-
+		System.out.println("hello fsadf git sault");
 
 		System.out.println("hello sault git right way ");
 
