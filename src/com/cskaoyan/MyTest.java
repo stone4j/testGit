@@ -5,6 +5,7 @@ public class MyTest {
         System.out.println("hello idea git");
         System.out.println("hello idea git");
         new MyTest().newMethod();
+        System.out.println("this is update by 0402");
     }
     private void newMethod(){
         System.out.println("fine 3q");
