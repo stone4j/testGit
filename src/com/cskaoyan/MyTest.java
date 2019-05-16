@@ -2,6 +2,7 @@ package com.cskaoyan;
 
 public class MyTest {
     public static void main(String[] ar){
+		sout(my)
         System.out.println("hello idea git");
         System.out.println("hello idea git");
         new MyTest().newMethod();
