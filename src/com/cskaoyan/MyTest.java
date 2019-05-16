@@ -11,6 +11,7 @@ public class MyTest {
 		sout("my2")
 
         System.out.println("this is update by idea_repo");
+		sout(my2)
 
     }
     private void newMethod(){
