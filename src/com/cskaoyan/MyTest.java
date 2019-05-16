@@ -11,6 +11,7 @@ public class MyTest {
 	    System.out.println("my2");
         System.out.println("this is update by idea_repo");
 	    System.out.println("my2");
+		//来源于my
 
     }
     private void newMethod(){
